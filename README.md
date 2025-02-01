@@ -14,8 +14,11 @@
 ## Hardware to Software Development-
 ['[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)']
 
-## Project-based-learning
+## Project-based-learning-
 ['https://github.com/practical-tutorials/project-based-learning']
 
-## Developers Portfolio template
+## Developers Portfolio template-
 [[https://github.com/emmabostian/developer-portfolios?tab=readme-ov-file](https://github.com/emmabostian/developer-portfolios?tab=readme-ov-file)]
+
+## All Programming Language cheatsheets and Toolkit-
+[[https://quickref.me/](https://quickref.me/)]
